@@ -18,7 +18,7 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 <br>
 
 <p align="center">
- "Projeto DevLinks" ![Cover] (https://github-production-user-asset-6210df.s3.amazonaws.com/172340558/358923513-a37deb3f-32c6-4e41-913c-b1121acc8608.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240818%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240818T165619Z&X-Amz-Expires=300&X-Amz-Signature=92a25f2d4269e1dd4808a31e5f0f1fbe40e19e20edf8eea383b35acb45222c34&X-Amz-SignedHeaders=host&actor_id=172340558&key_id=0&repo_id=837753070)>
+ <img alt="Projeto DevLinks" src="https://github-production-user-asset-6210df.s3.amazonaws.com/172340558/358923513-a37deb3f-32c6-4e41-913c-b1121acc8608.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240818%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240818T165619Z&X-Amz-Expires=300&X-Amz-Signature=92a25f2d4269e1dd4808a31e5f0f1fbe40e19e20edf8eea383b35acb45222c34&X-Amz-SignedHeaders=host&actor_id=172340558&key_id=0&repo_id=837753070">
 </p>
 
 ## 🚀 Tecnologias
